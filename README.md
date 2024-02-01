@@ -1,6 +1,7 @@
 # practica_evaluable
-21. Añade a tu repositorio remoto un archivo README.md. En el añade una breve descripción del ejercicio que acabas de realizar. Añade los comandos Git empleados durante la
-tarea.
+21. Añade a tu repositorio remoto un archivo README.md. En el añade una breve descripción del ejercicio que acabas de realizar. Añade los comandos Git empleados durante la tarea.
+
+    
 En esta serie de ejercicios hemos realizado una serie de acciones orientadas al uso de Github mediantes comandos desde la consola Git bash. Hemos navegado entre carpetas, creado la carpeta donde iniciar nuestro repositorio, creado archivos y modificado, del working al staging, los hemos commiteado, hemos creado y borrado ramas, cambiado entre estas, hemos sincronizado nuestro repo remoto con nuestro local, hemos hecho push y pull, creado etiquetas, revertido cambios mediante resetHard a commits anteriores, hemos creado conflictos,... entre otros.
 
 Comandos + comandos git
