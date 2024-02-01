@@ -4,10 +4,12 @@
     
 En esta serie de ejercicios hemos realizado una serie de acciones orientadas al uso de Github mediantes comandos desde la consola Git bash. Hemos navegado entre carpetas, creado la carpeta donde iniciar nuestro repositorio, creado archivos y modificado, del working al staging, los hemos commiteado, hemos creado y borrado ramas, cambiado entre estas, hemos sincronizado nuestro repo remoto con nuestro local, hemos hecho push y pull, creado etiquetas, revertido cambios mediante resetHard a commits anteriores, hemos creado conflictos,... entre otros.
 
-Comandos + comandos git
-Al inicio cambiamos las carpetas con cd .. o cd nombre de carpeta
-Creamos carpeta con mkdir nombrecarpeta
-Comenzamos proceso git
+Comandos + comandos git.
+
+Al inicio cambiamos las carpetas con cd .. o cd nombre de carpeta.
+
+Creamos carpeta con mkdir nombrecarpeta.
+Comenzamos proceso git:
 - git init //Inicializamos repo local
 - echo "texto">nombre.txt //Creamos documentos
 - ls -la // Mostramos contenido carpeta
